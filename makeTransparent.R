@@ -13,11 +13,14 @@ makeTransparent<-function(someColor, alpha=100)
 
 
 
-
-
-
-
 #Examples :
+
+#Ex1 :
+par(mar=c(3,3,3,3), mfrow=c(1,1))
+plot(2,2, pch=16, col=makeTransparent("red"), cex=20)
+
+
+#Ex2:
 par(mar=c(3,3,3,3), mfrow=c(3,1))
 
 mu1 <- 0
