@@ -1,7 +1,7 @@
 # R_functions
 A set of useful R functions
 
-##makeTransparent
+## `makeTransparent`
 Make a color transparent.
 
 **Usage :**<br/>
@@ -9,7 +9,7 @@ Make a color transparent.
 
 More examples and info in file
 
-##area_poly
+## `area_poly`
 Color an area under a curve to left or right of given value.
 **Usage :**<br/>
 ```
